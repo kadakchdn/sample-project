@@ -23,4 +23,10 @@ public class Registrationtestcase extends Basetestcase
 	{
 		System.out.println("I am login Test");
 	}
+	
+	@Test
+	void RegistrationDDT4()
+	{
+		System.out.println("I am login Test");
+	}
 }
